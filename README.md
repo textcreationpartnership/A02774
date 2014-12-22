@@ -35,21 +35,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A nevv letter of notable contents With a straunge sonet, intituled Gorgon, or the wonderfull yeare.H
+
 #####Body#####
 
-1. Sonet. Gorgon, or the wonderfull yeare.
+1. TO MY LOVING FRIEND, IOHN Wolfe, Printer to the Cittie.
+Sonet. Gorgon, or the wonderfull yeare.St Fame dispos'd to cunnycatch the world,Vproar'd a wondermen
+    _ Sonet. Gorgon, or the wonderfull yeare.
 
-1. L'enuoy.
+    _ L'enuoy.
 
-1. Sonet.
+    _ Sonet.
 
-1. Glosse.
+    _ Glosse.
 
-1. L'enuoy.
+    _ L'enuoy.
 
 #####Back#####
-A nevv letter of notable contents With a straunge sonet, intituled Gorgon, or the wonderfull yeare.H
+
+1. Errata.
+
 **Types of content**
 
   * There are 63 **verse** lines!
